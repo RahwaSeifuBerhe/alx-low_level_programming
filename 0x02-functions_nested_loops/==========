@@ -1,0 +1,5 @@
+lphabet_x10.c:10: ERROR: spaces required around that ':' (ctx:ExV)                                                                              
+2-print_alphabet_x10.c:15: ERROR: space required after that ';' (ctx:VxO)                                                                                
+2-print_alphabet_x10.c:15: ERROR: spaces required around that ':' (ctx:OxE)                                                                              
+total: 3 errors, 0 warnings, 17 lines checked                                         
+print_alphabet_x10                                                                                                         ttigg 
